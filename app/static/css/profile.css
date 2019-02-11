@@ -1,0 +1,50 @@
+#head-segment{
+    background: #6c757d;
+    min-height: 50%;
+    padding: 2em;
+}
+#head-scripts{
+    color: white;
+    text-align: center;
+    margin-top: 0.2em;
+}
+#profile-pic{
+    border-radius: 50%;
+    position: relative;
+    top: 30%;
+    left: 27%;
+}
+#body-segment{
+    padding-left: 10%;
+    padding-top: 4%;
+    padding-bottom: 3em;
+}
+
+#basement{
+    position: relative;
+    left: 30%;
+}
+#basement div{
+    display: inline-block;
+    padding-left: 2em;
+}
+
+button{
+    margin-left: 10%;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5em 2em;
+    display: block;
+}
+
+.content-area{
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.numb{
+    font-weight:bold;
+}
+    
